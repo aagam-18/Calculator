@@ -17,8 +17,7 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript. This pr
     -Division
   -Clear and delete functionalities
 
-📦 Installation
-To run this project locally:
+📦 To run this project locally:
   -simply open index.html in your browser.
 
 📁 Folder Structure

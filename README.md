@@ -4,8 +4,8 @@
 A simple and responsive calculator built with HTML, CSS, and JavaScript. This project performs basic arithmetic operations including addition, subtraction, multiplication, and division.
 
 🛠️ Technologies Used
-  -HTML5
-  -CSS3
+  -HTML
+  -CSS
   -JavaScript (Vanilla)
 
 ✨ Features

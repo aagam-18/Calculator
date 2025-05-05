@@ -1,3 +1,5 @@
+#Basic-Calculator
+
 🧮 Basic Calculator (Frontend)
 A simple and responsive calculator built with HTML, CSS, and JavaScript. This project performs basic arithmetic operations including addition, subtraction, multiplication, and division.
 
